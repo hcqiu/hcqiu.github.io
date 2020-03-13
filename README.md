@@ -10,6 +10,10 @@ Topology, Partial Differential Equation
 
 ### Math Project
 
+[Notes for Contact Geometry (In progress)](./contact.pdf)
+
+-I'm very interested in knot theory, thus I try to learn contact geometry. I think details of a definition are important, since they may show some implicit ideas of the new structures. This note is mainly based on the lecture notes of Prof. Ko Honda and Pro. John B. Etnyre.
+
 [ORBIT BRAID ACTION ON A FINITE GENERATED GROUP](./ORBIT_BRAID_ACTION_ON_A_FINITE_GENERATED_GROUP.pdf)
 
 -This paper aims to generalize Artin’s ideas to establish an one-to-one correspondence between the orbit braid group and a quotient of a group formed by some particular G-homeomorphisms of a punctured plane, to compute orbit link group.
