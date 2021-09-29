@@ -28,7 +28,9 @@ A Java project to solve Rubik's cube, built in LeJOS and implemented by a robot 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dAfDIDdDclc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Blockchain Project
 
+[用可关联环签名设计半固定账号匿名社交平台](./用可关联环签名设计半固定账号匿名社交平台.pdf)
 
 
 
