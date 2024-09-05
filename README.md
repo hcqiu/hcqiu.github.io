@@ -1,6 +1,6 @@
 ## Welcome to Haochen Qiu's Home Page
 
-<img src="./picture.jpg" alt="我的照片" width="300" height="500">
+<img src="./picture.jpg" alt="我的照片" width="200" height="400">
 
 [CV of Haochen Qiu, an undergraduate of Fudan University, China](./cv_HaochenQiu.pdf)
 
