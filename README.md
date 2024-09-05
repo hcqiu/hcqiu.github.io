@@ -6,9 +6,9 @@ My research interests are low dimensional topology. In particular, my works find
 
 ### Math Project
 
-[Surgery formulas for Seiberg-Witten invariants and family Seiberg-Witten invariants](./surgery.pdf)
+Surgery formulas for Seiberg-Witten invariants and family Seiberg-Witten invariants [Draft](./surgery.pdf)
 
-
+-We prove a surgery formula for the ordinary Seiberg-Witten invariants, and a surgery formula for the families Seiberg-Witten invariants of families of 4-manifolds obtained through fibrewise surgery. Our formula expresses the Seiberg-Witten invariants of the manifold after the surgery, in terms of the original Seiberg-Witten moduli space cut down by a cohomology class in the configuration space. We use these surgery formulas to study how a surgery can preserve or produce exotic phenomena.
 
 [Notes for Contact Geometry (In progress)](./contact.pdf)
 
