@@ -1,5 +1,7 @@
 <img src="./picture.jpg" alt="我的照片" style="float: left; margin-right: 10px; width: 150px; height: 250px;">
 
+My research interests are low dimensional topology. In particular, my works find new differences between the smooth world and the continuous world in dimension 4. My advisor is Danny Ruberman. 
+
 [Research statement](./research_statement.pdf) 
 
 ### Math Project
