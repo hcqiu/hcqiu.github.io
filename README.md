@@ -1,5 +1,7 @@
 ## Welcome to Haochen Qiu's Home Page
 
+<img src="./picture.jpg" alt="我的照片" width="500" height="300">
+
 [CV of Haochen Qiu, an undergraduate of Fudan University, China](./cv_HaochenQiu.pdf)
 
 -Grade-point average of **3.96**/4.0 in upper division mathematics courses. GPA of 7 courses related to topology and
