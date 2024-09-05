@@ -15,11 +15,11 @@ My research interests are low dimensional topology. In particular, my works find
 #### Dehn twist on a sum of two homology $4$-tori
 - In this project we construct an exotic diffeomorphism on a nonsimply connected manifold without the need for an exotic smooth structure. The main theorem of this project is: If $X1,X_2$ are two homology tori such that the determinants $r_1,r_2$ of them are odd. Then the Dehn twist along a $3$-sphere in the neck of $X_1\# X_2$ is not smoothly isotopic to the identity.
 
-## Java Project
+## Engineering Project
 
 [cube-solver](https://github.com/hcqiu/cube-solver)
 
-A Java project to solve Rubik's cube, built in LeJOS and implemented by a robot constructed from LEGO NXT.
+An Embedded project to solve Rubik's cube, built by Java and implemented by a robot constructed from LEGO bricks. I use maching learning to recognize colors on the cube.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dAfDIDdDclc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
