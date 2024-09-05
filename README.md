@@ -1,6 +1,6 @@
-## Welcome to Haochen Qiu's Home Page
 <img src="./picture.jpg" alt="我的照片" style="float: left; margin-right: 10px; width: 150px; height: 250px;">
-<p>[Research statement](./research_statement.pdf) </p>
+
+[Research statement](./research_statement.pdf) 
 
 ### Math Project
 
