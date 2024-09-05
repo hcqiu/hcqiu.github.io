@@ -1,4 +1,6 @@
 ## Welcome to Haochen Qiu's Home Page
+<img src="./picture.jpg" alt="我的照片" style="float: left; margin-right: 10px; width: 150px; height: 240px;">
+<p>这是图片右边的文字。这段文字将会出现在图片的右边，可以添加更多的内容来确保显示效果。使用 CSS 的 `float` 属性可以让图片和文字并排。</p>
 
 <img src="./picture.jpg" alt="我的照片" width="200" height="300">
 
