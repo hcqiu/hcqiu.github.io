@@ -1,4 +1,4 @@
-<img src="./picture.jpg" alt="我的照片" style="float: left; margin-right: 10px; width: 150px; height: 250px;">
+<img src="./picture.jpg" alt="我的照片" style="float: right; margin-right: 10px; width: 150px; height: 250px;">
 
 My research interests are low dimensional topology. In particular, my works find new differences between the smooth world and the continuous world in dimension 4. My advisor is Danny Ruberman. 
 
@@ -6,7 +6,9 @@ My research interests are low dimensional topology. In particular, my works find
 
 ### Math Project
 
-[CW complex in cubical type theory](https://github.com/hcqiu/agda)
+[Surgery formulas for Seiberg-Witten invariants and family Seiberg-Witten invariants](./surgery.pdf)
+
+
 
 [Notes for Contact Geometry (In progress)](./contact.pdf)
 
