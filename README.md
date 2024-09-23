@@ -1,6 +1,6 @@
 <img src="./picture.jpg" alt="我的照片" style="float: right; margin-right: 10px; width: 150px; height: 250px;">
 
-My research interests are low dimensional topology. In particular, my works find new differences between the smooth world and the continuous world in dimension 4. My advisor is Danny Ruberman. 
+I am a Ph.D. student at Brandeis University. Before that, I was a undergrad student at Fudan University in China. My research interests are low dimensional topology, and in particular, exotic phenomena in dimension 4. My advisor is [Daniel Ruberman](https://people.brandeis.edu/~ruberman/). 
 
 [Research statement](./research_statement.pdf) 
 
@@ -12,7 +12,7 @@ My research interests are low dimensional topology. In particular, my works find
 #### Surgery formulas for Seiberg-Witten invariants and family Seiberg-Witten invariants (Draft is available at [./surgery.pdf](./surgery.pdf))
 - We prove a surgery formula for the ordinary Seiberg-Witten invariants, and a surgery formula for the families Seiberg-Witten invariants of families of 4-manifolds obtained through fibrewise surgery. Our formula expresses the Seiberg-Witten invariants of the manifold after the surgery, in terms of the original Seiberg-Witten moduli space cut down by a cohomology class in the configuration space. We use these surgery formulas to study how a surgery can preserve or produce exotic phenomena.
 
-#### Exotic diffeomorphism on $4$-manifolds with $b_2^+ = 2$ (Draft is available at [./critical.pdf](./critical.pdf))
+#### Exotic diffeomorphism on $4$-manifolds with $b_2^+ = 2$ (arxiv:[2409.07009](https://arxiv.org/abs/2409.07009))
 - While the exotic diffeomorphisms turned out to be very rich, we know much less about the $b^+_2 =2$ case, because parameterized gauge-theoretic invariants are not well defined. In this paper we present a method (that is, comparing the winding number of parameter families) to find exotic diffeomorphisms on simply-connected smooth closed $4$-manifolds with $b^+_2 =2$, and as a result we obtain that $2\CP^2 \# 10 \overline{\CP^2}$ admits exotic diffeomorphisms.
 
 #### Dehn twist on a sum of two homology $4$-tori (Draft is available at [./T4.pdf](./T4.pdf))
