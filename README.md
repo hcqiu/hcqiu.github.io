@@ -1,6 +1,6 @@
 <img src="./picture.jpg" alt="我的照片" style="float: right; margin-right: 10px; width: 150px; height: 250px;">
 
-Email:[haochenqiu@brandeis.edu](haochenqiu@brandeis.edu)
+Email: [haochenqiu@brandeis.edu](haochenqiu@brandeis.edu)
 
 [Research statement](./research_statement.pdf) 
 
