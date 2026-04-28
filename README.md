@@ -1,6 +1,6 @@
 <img src="./picture.jpg" alt="我的照片" style="float: right; margin-right: 10px; width: 150px; height: 250px;">
 
-Email: [hcqiu238@cam.ac.uk](hcqiu238@cam.ac.uk)
+Email: [hq238@cam.ac.uk](hcqiu238@cam.ac.uk)
 
 [Research statement](./research_statement_Haochen.pdf) 
 
