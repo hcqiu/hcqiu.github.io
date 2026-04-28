@@ -1,10 +1,10 @@
 <img src="./picture.jpg" alt="我的照片" style="float: right; margin-right: 10px; width: 150px; height: 250px;">
 
-Email: [haochenqiu@brandeis.edu](haochenqiu@brandeis.edu)
+Email: [hcqiu238@cam.ac.uk](hcqiu238@cam.ac.uk)
 
 [Research statement](./research_statement_Haochen.pdf) 
 
-I am a Ph.D. student at Brandeis University. Before that, I was an undergrad student at Fudan University in China. My research interests are low dimensional topology, and in particular, exotic phenomena in dimension 4. My advisor is [Daniel Ruberman](https://people.brandeis.edu/~ruberman/). 
+I am a postdoc at University of Cambridge, under the supervision of Sungkyung Kang. Before that, I was an undergrad student at Brandeis University, and my advisor is [Daniel Ruberman](https://people.brandeis.edu/~ruberman/). My research interests are low dimensional topology, and in particular, exotic phenomena in dimension 4. 
 
 
 ## Math Project
