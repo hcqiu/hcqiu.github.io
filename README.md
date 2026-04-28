@@ -4,7 +4,7 @@ Email: [hq238@cam.ac.uk](hcqiu238@cam.ac.uk)
 
 [Research statement](./research_statement_Haochen.pdf) 
 
-I am a postdoc at University of Cambridge, under the supervision of Sungkyung Kang. Before that, I obtained a Ph.D. from Brandeis University, and my advisor is [Daniel Ruberman](https://people.brandeis.edu/~ruberman/). My research interests are low dimensional topology, and in particular, exotic phenomena in dimension 4. 
+I am a postdoc at University of Cambridge, under the supervision of Sungkyung Kang. Before that, I obtained a Ph.D. from Brandeis University, and my advisor is [Daniel Ruberman](https://people.brandeis.edu/~ruberman/). My research interests are low dimensional topology, and in particular, gauge theory and homotopy theory. 
 
 
 ## Math Project
